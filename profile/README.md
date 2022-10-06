@@ -1,6 +1,5 @@
 # Clickette
-Your personal data is nobody's business.
-For everyone who’s had enough of online tracking, Clickette lets you take back your online privacy now.
+Looking to escape the trackers? Clickette is your #1 solution to stay private online.
 ## A little about us.
 Clickette is the worlds best privacy search engine, that aims to keep our users fully protected.
 We never store ANY user data, and never will. On Clickette, there are 0 logs of website visits or searches, and we aim to keep it that way.
@@ -10,5 +9,5 @@ On Clickette, there are no search histories and no user profiling. This means yo
 - **“Incognito Mode” isn't private.**
 Google wants you to think “Incognito Mode” is private. It's not. Google still tracks every search you make and most websites you visit in Incognito Mode. Clickette doesn't track you, ever.
 ## Spread the Word!
-Most Internet users are actively trying to improve their online privacy, help them out by sharing Clickette on your favorite social network.
-Find us at [https://clickette.net/](https://clickette.net/).
+<p>Most Internet users are actively trying to improve their online privacy, help them out by sharing Clickette on your favorite social network.
+Check us out on Twitter: <a href="https://twitter.com/clickettedev/"><strong>@clickettedev</strong></a>, and on our website: <a href="https://www.clickette.net/"><strong>clickette.net</strong></a> .</p>
