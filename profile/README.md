@@ -1,3 +1,11 @@
+# We've moved!
+
+Clickette is now a file uploading and sharing service owned by the privacy company [Forjed](https://github.com/forjed).
+
+For a privacy respecting seach engine made by the same people behind Clickette, try [Resulti](https://resulti.net).
+
+---
+
 # Clickette
 Looking to escape the trackers? Clickette is your #1 solution to stay private online.
 ## A little about us.
