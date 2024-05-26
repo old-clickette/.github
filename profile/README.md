@@ -1,8 +1,8 @@
 # We've moved!
 
-Clickette is now a file uploading and sharing service owned by the privacy company [Forjed](https://github.com/forjed).
+This GitHub organization is now defunct.
 
-For a privacy respecting seach engine made by the same people behind Clickette, try [Resulti](https://resulti.net).
+## You can find the new organization at [github.com/clickette](https://github.com/clickette)
 
 ---
 
